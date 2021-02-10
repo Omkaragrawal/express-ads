@@ -20,7 +20,7 @@
 	"contributors": "https://github.com/mi-g/express-ads/graphs/contributors",
 	"license":"MPL-2.0",
 	"dependencies": {
-		"ejs":"^2.3.4",
+		"ejs":"^3.1.6",
 		"extend":"^3.0.0",
 		"request": "^2.67.0",
 		"gm": "^1.21.1",
